@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LAHarbottle
 - 👀 I’m interested in Software Development, Game Development and Web Development.
-- 🌱 I’m currently learning C# for web backends, JavaScript for front end user experiences, and Python.
+- 🌱 I’m currently learning HTML, CSS and JavaScript for Full-stack Web Development
 - 📫 How to reach me - Email should work: LAHarbottle@outlook.com
 
 <!---
